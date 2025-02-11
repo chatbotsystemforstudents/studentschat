@@ -1,0 +1,59 @@
+﻿# Build Folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio workspace and temporary files
+.vs/
+
+# Build results
+*.dll
+*.exe
+*.appx
+*.appxsym
+*.appxupload
+
+# App packages
+AppPackages/
+*.appinstaller
+*.appinstallerupload
+
+# Generated project files
+Generated Files/
+
+# Logs
+*.log
+
+# Publish output
+*.publish/
+
+# NuGet Packages
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+
+# Backup and temporary files
+*_i.c
+*_p.c
+*_i.h
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.ipch
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+*.cache
+*.csproj.user
+*.aps
+*.mdb
